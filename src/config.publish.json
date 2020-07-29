@@ -1,0 +1,16 @@
+{
+    "emailTemplates": {
+        "permalinkBaseUrl": "https://paperbits.io",
+        "mediaBaseUrl": "https://cdn.paperbits.io"
+    },
+    "googleMaps": {
+        "apiKey": "< your API key >"
+    },
+    "intercom": {
+        "appId": "< your App ID >"
+    },
+    "googleTagManager": {
+        "containerId": "< your container ID >"
+    },
+    "environment": "publish"
+}
